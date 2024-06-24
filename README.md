@@ -6,9 +6,9 @@ This project is a Simple Hotel Website with a Fully Functional Hotel Management 
 
 ## Team Members
 
+- Duresa Feyisa
 - Gemechis Elias
 - Habteyesus Tadese
-- Duresa Fayisa
 - Etsubdink Hayelom
 - Firkresilase
 
@@ -28,7 +28,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gemechis-elias/hotel-website.git
+   git clone https://github.com/duressa-feyissa/Marefiya.git
+   ```
 
 2. Set up a local web server environment (e.g., XAMPP, WAMP, MAMP) and ensure it has PHP support.
 
@@ -39,7 +40,9 @@ To get started with the project, follow these steps:
 5. Launch the website by accessing it through your web server's URL.
 
 ## Contributions
+
 We welcome contributions from the community to enhance the project. If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request.
 
 ## Contact
+
 For any inquiries or questions regarding the project, please contact us
