@@ -1,0 +1,12 @@
+.swiper-slide {
+    margin-left: 20px;
+    margin-right: 20px;
+
+    &.swiper-slide-active {
+        color:#fff;
+        background: linear-gradient(45deg, rgb(246, 146, 89), rgb(241, 105, 117));
+        transform: scale(1.4);
+        z-index: 2
+      }
+    
+}
